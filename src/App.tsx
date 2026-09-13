@@ -57,7 +57,7 @@ function App() {
                 Choose the right <span className="gradient-text">web technologies</span> for your next product.
               </h1>
               <p className="hero-description">
-                Explore modern tools, libraries, and platforms to design faster, ship smarter, and build digital experiences that scale.
+                Explore modern tools, libraries, and platforms to design faster, ship smarter, and build digital experiences that scale. now lets as Togethere .
               </p>
               <div className="hero-actions">
                 <button className="primary-button">Explore Technologies</button>
